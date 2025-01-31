@@ -21,8 +21,5 @@
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/stella-goncalves-mendonca)
-- [E-mail](mailto:seuemail@exemplo.com)
+- [E-mail](stellagmendonca#gmail.com)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/04b0bfa5-9a0d-49db-a2c7-f1933e00498c" alt="Ícone do meu site, 3 amigos com roupas coloridas" width="150">
-</div>
