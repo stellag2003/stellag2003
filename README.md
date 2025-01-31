@@ -3,7 +3,7 @@
 🌌 Desenvolvedora de Software apaixonada por tecnologia e inovação.  
 ✨ Amo criar projetos que facilitam a vida das pessoas.  
 🎯 Atualmente focada em desenvolvimento web.
-<3  Com uma fascinação por videogames
+<3  Com uma fascinação por videogames.
 
 
 ## 🛠️ Tecnologias que eu uso
