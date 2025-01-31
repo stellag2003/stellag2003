@@ -3,7 +3,7 @@
 🌌 Desenvolvedora de Software apaixonada por tecnologia e inovação.  
 ✨ Amo criar projetos que facilitam a vida das pessoas.  
 🎯 Atualmente focada em desenvolvimento web.
-<3  Com uma fascinação por videogames.
+🎮 Fascinada por videogames e música.
 
 
 ## 🛠️ Tecnologias que eu uso
@@ -18,7 +18,7 @@
 
 ## 🌟 Meus Projetos
 - [Amigo Secreto](https://stellag2003.github.io/AmigoSecreto/) - Um projeto incrível para sorteios entre amigos!
-- [Adivinhe o Número Secreto](https://stellag2003.github.io/AdivinheONumeroSecreto/) - Um jogo divertido para adivinhar números.
+- [Adivinhe o Número](https://stellag2003.github.io/AdivinheONumeroSecreto/) - Um jogo divertido para adivinhar números.
 - [Player de Músicas](https://stellag2003.github.io/PlayerMusicas/) - Um player de músicas simples e funcional.
 
 ## 📫 Como me encontrar
