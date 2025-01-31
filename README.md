@@ -1,6 +1,3 @@
-Aqui está seu texto atualizado com **JSON** nas tecnologias:  
-
----
 
 # Olá, eu sou a Stella! 👋  
 
