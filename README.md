@@ -1,10 +1,10 @@
 
 # Olá, eu sou a Stella! 👋  
 
-🌌 Desenvolvedora de Software apaixonada por tecnologia e inovação.  
-✨ Amo criar projetos que facilitam a vida das pessoas.  
-🎮 Tenho uma fascinação por **videogames** e **música**, duas paixões que me inspiram a criar soluções criativas e divertidas.  
-🎯 Atualmente cursando **Engenharia de Software** e trabalhando como **Desenvolvedora de Software**.  
+- Desenvolvedora de Software apaixonada por tecnologia e inovação.  
+- Amo criar projetos que facilitam a vida das pessoas.  
+- Tenho uma fascinação por **videogames** e **música**, duas paixões que me inspiram a criar soluções criativas e divertidas.  
+- Atualmente cursando **Engenharia de Software** e trabalhando como **Desenvolvedora de Software**.  
 
 ## 🛠️ Tecnologias que uso  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
