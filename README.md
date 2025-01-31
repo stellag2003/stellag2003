@@ -3,7 +3,7 @@
 
 🌌 Desenvolvedora de Software apaixonada por tecnologia e inovação.  
 ✨ Amo criar projetos que facilitam a vida das pessoas.  
-🎮 Fascinada por videogames e música.  
+🎮 Tenho uma fascinação por **videogames** e **música**, duas paixões que me inspiram a criar soluções criativas e divertidas.  
 🎯 Atualmente cursando **Engenharia de Software** e trabalhando como **Desenvolvedora de Software**.  
 
 ## 🛠️ Tecnologias que eu uso  
