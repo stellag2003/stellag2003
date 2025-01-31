@@ -2,7 +2,9 @@
 
 🌌 Desenvolvedora de Software apaixonada por tecnologia e inovação.  
 ✨ Amo criar projetos que facilitam a vida das pessoas.  
-🎯 Atualmente focada em desenvolvimento web.  
+🎯 Atualmente focada em desenvolvimento web.
+<3  Com uma fascinação por videogames
+
 
 ## 🛠️ Tecnologias que eu uso
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
