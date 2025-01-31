@@ -21,18 +21,28 @@
 ## 🌟 Meus Projetos  
 - [Amigo Secreto](https://stellag2003.github.io/AmigoSecreto/) - Um projeto incrível para sorteios entre amigos!  
 - [Adivinhe o Número Secreto](https://stellag2003.github.io/AdivinheONumeroSecreto/) - Um jogo divertido para adivinhar números.  
-- [Player de Músicas](https://stellag2003.github.io/PlayerMusicas/) - Um player de músicas simples e funcional.  
-
-## 📫 Como me encontrar  
-- [LinkedIn](https://www.linkedin.com/in/stella-goncalves-mendonca)  
-- [E-mail](mailto:stellagmendonca@gmail.com)  
+- [Player de Músicas](https://stellag2003.github.io/PlayerMusicas/) - Um player de músicas simples e funcional.
 
 
-<div>
+  <div>
   <a href="https://github.com/stellag2003">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellag2003&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=stellag2003&show_icons=true&theme=dracula&count_private=true"/>
   </a>
 </div>
+
+## 📫 Como me encontrar  
+
+<a href="https://www.linkedin.com/in/stella-goncalves-mendonca" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>  
+
+<a href="mailto:stellagmendonca@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+
+
+
 
 
