@@ -21,5 +21,5 @@
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/stella-goncalves-mendonca)
-- [E-mail](mailto.stellagmendonca@gmail.com)
+- [E-mail](mailto:stellagmendonca@gmail.com)
 
