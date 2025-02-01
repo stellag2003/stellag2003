@@ -1,4 +1,4 @@
-'
+
 # Olá, eu sou a Stella! 👋  
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.  
@@ -46,7 +46,6 @@
 </a>
 
 ![Snake animation](https://github.com/StellaG2003/StellaG2003/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
