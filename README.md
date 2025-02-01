@@ -1,4 +1,4 @@
-
+'
 # Olá, eu sou a Stella! 👋  
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.  
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-animation](https://github.com/stellag2003/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/StellaG2003/StellaG2003/blob/output/github-contribution-grid-snake.svg)
 
 
 
