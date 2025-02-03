@@ -1,4 +1,4 @@
-5f
+
 # Olá, eu sou a Stella! 👋  
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.  
