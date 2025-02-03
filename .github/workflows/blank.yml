@@ -1,0 +1,20 @@
+name: Meu Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      # Adicione seu passo para o upload do artefato aqui
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v3.2.4
+        with:
+          name: example-artifact
+          path: ./artifact-path
