@@ -1,7 +1,8 @@
 
 # Olá, eu sou a Stella! 👋  
 
-- Desenvolvedora de Software apaixonada por tecnologia e inovação.  
+- Desenvolvedora de Software apaixonada por tecnologia e inovação.
+- Idiomas: Espanhol (intermediário), Inglês (básico) 
 - Amo criar projetos que facilitam a vida das pessoas.  
 - Tenho uma fascinação por **videogames** e **música**, duas paixões que me inspiram a criar soluções criativas e divertidas.  
 - Atualmente cursando **Engenharia de Software** e trabalhando como **Desenvolvedora de Software**.  
