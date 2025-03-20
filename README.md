@@ -1,7 +1,6 @@
-<a href="https://readme-typing-svg.demolab.com/demo/?font=Poppins&size=30&color=27C563&lines=Ol%C3%A1%2C+mundo!;Eu+sou+a+Stella!"></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=27C563&width=435&lines=Ol%C3%A1%2C+mundo!;Eu+sou+a+Stella!" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=700&color=27C563&width=435&lines=Ol%C3%A1%2C+mundo!;Eu+sou+a+Stella!" alt="Typing SVG" /></a>
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.
 - Idiomas: Espanhol (intermediário), Inglês (básico) 
