@@ -24,10 +24,10 @@
 
 
 ## 🚀 Projetos em Destaque 
-- [Amigo Secreto] <a href="https://stellag2003.github.io/AmigoSecreto/" target="_blank"></a> - Um projeto incrível para sorteios entre amigos!
-- [Adivinhe o Número Secreto] <a href="https://stellag2003.github.io/AdivinheONumeroSecreto/" target="_blank"></a> - Um jogo divertido para adivinhar números. 
-- [Player de Músicas] <a href="https://stellag2003.github.io/PlayerMusicas/" target="_blank"></a> - Um player de músicas simples e funcional.
-- [Portfólio] <a href="https://stellag2003.github.io/Portfolio/)" target="_blank"></a> - Meu primeiro portfólio!
+- [Amigo Secreto](https://stellag2003.github.io/AmigoSecreto/) - Um projeto incrível para sorteios entre amigos!
+- [Adivinhe o Número Secreto](https://stellag2003.github.io/AdivinheONumeroSecreto/) - Um jogo divertido para adivinhar números.
+- [Player de Músicas](https://stellag2003.github.io/PlayerMusicas/) - Um player de músicas simples e funcional.
+- [Portfólio](https://stellag2003.github.io/Portfolio/) - Meu primeiro portfólio!
 <br>
 
 
