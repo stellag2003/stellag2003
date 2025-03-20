@@ -1,5 +1,5 @@
+<a link rel="https://readme-typing-svg.demolab.com/demo/?font=Poppins&size=30&color=27C563&lines=Ol%C3%A1%2C+mundo!;Eu+sou+a+Stella!"></a>
 
-https://readme-typing-svg.demolab.com/demo/?font=Poppins&size=30&color=27C563&lines=Ol%C3%A1%2C+mundo!;Eu+sou+a+Stella!
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.
 - Idiomas: Espanhol (intermediário), Inglês (básico) 
