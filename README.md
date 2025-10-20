@@ -3,10 +3,10 @@
 
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.
-- Idiomas: Espanhol (intermediário), Inglês (básico) 
+- Idiomas: Espanhol e  Inglês.
 - Amo criar projetos que facilitam a vida das pessoas.  
 - Tenho uma fascinação por **videogames**, **música** e **livros**, paixões que me inspiram a criar soluções criativas e divertidas.  
-- Atualmente cursando **Engenharia de Software** e trabalhando como **Desenvolvedora de Software**.  
+- Atualmente cursando *Análise e Desenvolvimento de Sistemas**.
 
 ## 🛠️ Tecnologias que uso  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
@@ -28,6 +28,7 @@
 - [Amigo Secreto](https://stellag2003.github.io/AmigoSecreto/) - Um projeto incrível para sorteios entre amigos!
 - [Player de Músicas](https://stellag2003.github.io/PlayerMusicas/) - Um player de músicas simples e funcional.
 - [Adivinhe o Número Secreto](https://stellag2003.github.io/AdivinheONumeroSecreto/) - Um jogo divertido para adivinhar números.
+- [Site Dia dos Namorados](https://stellag2003.github.io/presente-para-o-amor-da-minha-vida/) - Um site romãntico e personalizado.
 <br>
 
 
