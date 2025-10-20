@@ -2,10 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2000&pause=1000&color=E33DD5&width=435&lines=Ol%C3%A1%2C+mundo!;Eu+sou+a+Stella!;Sou+Dev+FullStack" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="100%" height="4px" alt="linha colorida animada">
+  <img src="https://raw.githubusercontent.com/stellag2003/stellag2003/main/assets/linha-azul.svg" width="100%" height="4px" alt="linha azul animada">
 </p>
-
-
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.
 - Atualmente estudando APIS.
