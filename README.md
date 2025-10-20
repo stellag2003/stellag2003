@@ -1,7 +1,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2000&pause=1000&color=E33DD5&width=435&lines=Ol%C3%A1%2C+mundo!;Eu+sou+a+Stella!;Sou+Dev+FullStack" alt="Typing SVG" /></a>
 
-<hr style="height: 4px; background: linear-gradient(90deg, #E33DD5, #6A00FF, #00FFFF); border: none;">
+<p align="center">
+  <img src="https://svgur.com/i/15gC.svg" width="100%" height="6px" alt="linha gradiente animada">
+</p>
 
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.
