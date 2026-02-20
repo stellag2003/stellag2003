@@ -1,5 +1,7 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=2000&pause=1000&color=E33DD5&width=435&lines=Ol%C3%A1%2C+mundo!;Eu+sou+a+Stella!;Sou+Dev+FullStack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=A020F0&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Stella!;Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
+</a>
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.
 - Atualmente estudando APIS.
@@ -32,7 +34,6 @@
 - [Make Hits](https://github.com/stellag2003/ProjetoSquadPdA) - Gerenciador de Playlists
 - [Hero Task Manager](https://stellag2003.github.io/MiniProjeto_M3/) - To Do List para Super-Heróis!
 <br>
-
 ## 📫 Como me encontrar  
 
 <a href="https://www.linkedin.com/in/stella-goncalves-mendonca" target="_blank">
