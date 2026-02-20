@@ -33,11 +33,6 @@
 - [Hero Task Manager](https://stellag2003.github.io/MiniProjeto_M3/) - To Do List para Super-Heróis!
 <br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellag2003&layout=compact&langs_count=7&theme=dracula)](https://github.com/stellag2003)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stellag2003&show_icons=true&theme=dracula&count_private=true)](https://github.com/stellag2003)
-
-
 ## 📫 Como me encontrar  
 
 <a href="https://www.linkedin.com/in/stella-goncalves-mendonca" target="_blank">
