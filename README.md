@@ -34,6 +34,7 @@
 - [Make Hits](https://github.com/stellag2003/ProjetoSquadPdA) - Gerenciador de Playlists
 - [Hero Task Manager](https://stellag2003.github.io/MiniProjeto_M3/) - To Do List para Super-Heróis!
 <br>
+
 ## 📫 Como me encontrar  
 
 <a href="https://www.linkedin.com/in/stella-goncalves-mendonca" target="_blank">
