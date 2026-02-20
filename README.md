@@ -27,9 +27,10 @@
 ## 🚀 Projetos em Destaque 
 - [Portfólio](https://stellag2003.github.io/Portfolio/) - Meu primeiro portfólio!
 - [Amigo Secreto](https://stellag2003.github.io/AmigoSecreto/) - Um projeto incrível para sorteios entre amigos!
-- [Player de Músicas](https://stellag2003.github.io/PlayerMusicas/) - Um player de músicas simples e funcional.
 - [Adivinhe o Número Secreto](https://stellag2003.github.io/AdivinheONumeroSecreto/) - Um jogo divertido para adivinhar números.
 - [Site Dia dos Namorados](https://stellag2003.github.io/presente-para-o-amor-da-minha-vida/) - Um site romãntico e personalizado.
+- [Make Hits](https://github.com/stellag2003/ProjetoSquadPdA) - Gerenciador de Playlists
+- [Hero Task Manager](https://stellag2003.github.io/MiniProjeto_M3/) - To Do List para Super-Heróis!
 <br>
 
 
