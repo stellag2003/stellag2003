@@ -1,6 +1,6 @@
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=A020F0&width=500&lines=Ol%C3%A1%2C+eu+sou+a+Stella!;Desenvolvedora+Full+Stack;Apaixonada+por+tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=A020F0&width=500&lines=Ol%C3%A1%2C+Mundo!;Eu+sou+a+Stella!;Dev+Full+Stack;Amo+tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.
