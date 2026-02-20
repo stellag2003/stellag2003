@@ -34,12 +34,9 @@
 <br>
 
 
-  <div>
-  <a href="https://github.com/stellag2003">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stellag2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellag2003&layout=compact&theme=dracula"/>
-  </a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stellag2003&layout=compact&langs_count=7&theme=dracula)](https://github.com/stellag2003)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stellag2003&show_icons=true&theme=dracula&count_private=true)](https://github.com/stellag2003)
+
 
 ## 📫 Como me encontrar  
 
