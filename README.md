@@ -4,7 +4,7 @@
 </a>
 
 - Desenvolvedora de Software apaixonada por tecnologia e inovação.
-- Atualmente estudando APIS.
+- Atualmente estudando React.
 - Idiomas: Espanhol e  Inglês.
 - Amo criar projetos que facilitam a vida das pessoas.  
 - Tenho uma fascinação por **videogames**, **música** e **livros**, paixões que me inspiram a criar soluções criativas e divertidas.  
