@@ -25,6 +25,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-8%2B-blue?logo=java)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ## 🚀 Projetos em Destaque 
 - [Portfólio](https://stellag2003.github.io/Portfolio/) - Meu primeiro portfólio!
