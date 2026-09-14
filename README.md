@@ -8,7 +8,7 @@
 - Idiomas: Espanhol e  Inglês.
 - Amo criar projetos que facilitam a vida das pessoas.  
 - Tenho uma fascinação por **videogames**, **música** e **livros**, paixões que me inspiram a criar soluções criativas e divertidas.  
-- Atualmente cursando *Análise e Desenvolvimento de Sistemas*.
+- Cursando *Análise e Desenvolvimento de Sistemas*.
 
 ## 🛠️ Tecnologias que uso  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
