@@ -10,7 +10,7 @@
 - Tenho uma fascinação por **videogames**, **música** e **livros**, paixões que me inspiram a criar soluções criativas e divertidas.  
 - Cursando *Análise e Desenvolvimento de Sistemas*.
 
-## 🛠️ Tecnologias que uso  
+## Tecnologias que uso  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -28,7 +28,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## 🚀 Projetos em Destaque 
+## Projetos em Destaque 
 - [Portfólio](https://stellag2003.github.io/Portfolio/) - Meu primeiro portfólio!
 - [Amigo Secreto](https://stellag2003.github.io/AmigoSecreto/) - Um projeto incrível para sorteios entre amigos!
 - [Adivinhe o Número Secreto](https://stellag2003.github.io/AdivinheONumeroSecreto/) - Um jogo divertido para adivinhar números.
@@ -37,7 +37,7 @@
 - [Hero Task Manager](https://stellag2003.github.io/MiniProjeto_M3/) - To Do List para Super-Heróis!
 <br>
 
-## 📫 Como me encontrar  
+## Como me encontrar  
 
 <a href="https://www.linkedin.com/in/stella-goncalves-mendonca" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
