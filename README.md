@@ -70,19 +70,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisor" />
 
-## Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=stellag2003&show_icons=true&theme=tokyonight&title_color=A020F0&icon_color=A020F0&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellag2003&layout=compact&theme=tokyonight&title_color=A020F0&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
-
-<img src="https://streak-stats.demolab.com?user=stellag2003&theme=tokyonight&ring=A020F0&fire=A020F0&currStreakLabel=A020F0&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisor" />
-
 ## Contribuições
 
 <div align="center">
