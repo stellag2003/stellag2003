@@ -1,54 +1,98 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:A020F0&height=180&section=header&text=Stella%20Gonçalves&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20Full%20Stack&descAlignY=55&descSize=18" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=A020F0&width=500&lines=Ol%C3%A1%2C+Mundo!;Eu+sou+a+Stella!;Dev+Full+Stack;Amo+tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=1000&color=A020F0&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+Mundo!;Eu+sou+a+Stella!;Dev+Full+Stack;Amo+tecnologia!" alt="Typing SVG" />
 </a>
 
-- Desenvolvedora de Software apaixonada por tecnologia e inovação.
-- Atualmente estudando computação em nuvem.
-- Idiomas: Espanhol e  Inglês.
-- Amo criar projetos que facilitam a vida das pessoas.  
-- Tenho uma fascinação por **videogames**, **música** e **livros**, paixões que me inspiram a criar soluções criativas e divertidas.  
-- Cursando *Análise e Desenvolvimento de Sistemas*.
-
-## Tecnologias que uso  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-8%2B-blue?logo=java)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-## Projetos em Destaque 
-- [Portfólio](https://stellag2003.github.io/Portfolio/) - Meu primeiro portfólio!
-- [Amigo Secreto](https://stellag2003.github.io/AmigoSecreto/) - Um projeto incrível para sorteios entre amigos!
-- [Adivinhe o Número Secreto](https://stellag2003.github.io/AdivinheONumeroSecreto/) - Um jogo divertido para adivinhar números.
-- [Site Dia dos Namorados](https://stellag2003.github.io/presente-para-o-amor-da-minha-vida/) - Um site romãntico e personalizado.
-- [Make Hits](https://github.com/stellag2003/ProjetoSquadPdA) - Gerenciador de Playlists
-- [Hero Task Manager](https://stellag2003.github.io/MiniProjeto_M3/) - To Do List para Super-Heróis!
 <br>
 
-## Como me encontrar  
+<a href="https://www.linkedin.com/in/stella-goncalves-mendonca" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://mail.google.com/mail/?view=cm&to=stellagmendonca@gmail.com&subject=Contato&body=Olá, Stella. Podemos conversar?" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://stellag2003.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-A020F0?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
 
-<a href="https://www.linkedin.com/in/stella-goncalves-mendonca" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>  
+<img src="https://komarev.com/ghpvc/?username=stellag2003&color=blueviolet&style=flat&label=visitas+no+perfil" alt="Visitas no perfil" />
 
-<a href="https://mail.google.com/mail/?view=cm&to=stellagmendonca@gmail.com&subject=Contato&body=Olá, Stella. Podemos conversar?" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisor" />
+
+## Sobre mim
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=C77DFF&width=420&lines=Estudando+computa%C3%A7%C3%A3o+em+nuvem;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Criando+solu%C3%A7%C3%B5es+que+facilitam+vidas" alt="Typing SVG" />
 </a>
 
-## 🐍 Contribuições
+- Desenvolvedora de Software apaixonada por tecnologia e inovação
+- Atualmente estudando **computação em nuvem**
+- Cursando *Análise e Desenvolvimento de Sistemas*
+- Idiomas: **Espanhol** e **Inglês**
+- Amo criar projetos que facilitam a vida das pessoas
+- Fascinada por **videogames**, **música** e **livros**, paixões que me inspiram a criar soluções criativas e divertidas
 
-![Snake animation](https://github.com/stellag2003/stellag2003/blob/output/github-contribution-grid-snake-dark.svg)
+<br clear="right"/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisor" />
 
+## Tecnologias que uso
+
+<div align="center">
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,jquery&theme=dark" alt="Front-end" />
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,cs,dotnet,java&theme=dark" alt="Back-end" />
+
+**Banco de dados e ferramentas**
+
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode&theme=dark" alt="Banco de dados e ferramentas" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisor" />
+
+## Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| [Portfólio](https://stellag2003.github.io/Portfolio/) | Meu primeiro portfólio! |
+| [Amigo Secreto](https://stellag2003.github.io/AmigoSecreto/) | Sorteios entre amigos de forma simples |
+| [Adivinhe o Número Secreto](https://stellag2003.github.io/AdivinheONumeroSecreto/) | Um jogo divertido para adivinhar números |
+| [Site Dia dos Namorados](https://stellag2003.github.io/presente-para-o-amor-da-minha-vida/) | Um site romântico e personalizado |
+| [Make Hits](https://github.com/stellag2003/ProjetoSquadPdA) | Gerenciador de playlists |
+| [Hero Task Manager](https://stellag2003.github.io/MiniProjeto_M3/) | To-do list para super-heróis! |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisor" />
+
+## Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=stellag2003&show_icons=true&theme=tokyonight&title_color=A020F0&icon_color=A020F0&hide_border=true&locale=pt-br" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellag2003&layout=compact&theme=tokyonight&title_color=A020F0&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+
+<img src="https://streak-stats.demolab.com?user=stellag2003&theme=tokyonight&ring=A020F0&fire=A020F0&currStreakLabel=A020F0&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divisor" />
+
+## Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stellag2003/stellag2003/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stellag2003/stellag2003/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/stellag2003/stellag2003/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A020F0,100:4B0082&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
